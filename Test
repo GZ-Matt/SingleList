@@ -1,5 +1,3 @@
 select * from sys.objects
 
 select * from sys.tables
-
-select * from students
